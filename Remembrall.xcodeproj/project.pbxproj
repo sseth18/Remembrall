@@ -7,15 +7,26 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8905FF0B23D23EF100843CDA /* ToDoListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8905FF0A23D23EF100843CDA /* ToDoListTableViewController.swift */; };
+		8905FF0D23D23FF300843CDA /* ToDo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8905FF0C23D23FF300843CDA /* ToDo.swift */; };
+		8934D31223D699D40027825D /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8934D31123D699D40027825D /* DetailViewController.swift */; };
+		8940F4D623D62273006F201C /* NewItemViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8940F4D523D62273006F201C /* NewItemViewController.swift */; };
+		8940F4D823D62BDE006F201C /* InitialTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8940F4D723D62BDE006F201C /* InitialTableViewCell.swift */; };
 		899E1A0B23CF7EDF00CB35B5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 899E1A0A23CF7EDF00CB35B5 /* AppDelegate.swift */; };
 		899E1A0D23CF7EDF00CB35B5 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 899E1A0C23CF7EDF00CB35B5 /* SceneDelegate.swift */; };
 		899E1A0F23CF7EDF00CB35B5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 899E1A0E23CF7EDF00CB35B5 /* ViewController.swift */; };
 		899E1A1223CF7EE000CB35B5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 899E1A1023CF7EE000CB35B5 /* Main.storyboard */; };
 		899E1A1423CF7EE400CB35B5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 899E1A1323CF7EE400CB35B5 /* Assets.xcassets */; };
 		899E1A1723CF7EE400CB35B5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 899E1A1523CF7EE400CB35B5 /* LaunchScreen.storyboard */; };
+		89EABE0223D8BABC00AA8A5D /* DashboardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89EABE0123D8BABC00AA8A5D /* DashboardViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8905FF0A23D23EF100843CDA /* ToDoListTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListTableViewController.swift; sourceTree = "<group>"; };
+		8905FF0C23D23FF300843CDA /* ToDo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDo.swift; sourceTree = "<group>"; };
+		8934D31123D699D40027825D /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		8940F4D523D62273006F201C /* NewItemViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewItemViewController.swift; sourceTree = "<group>"; };
+		8940F4D723D62BDE006F201C /* InitialTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitialTableViewCell.swift; sourceTree = "<group>"; };
 		899E1A0723CF7EDF00CB35B5 /* Remembrall.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Remembrall.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		899E1A0A23CF7EDF00CB35B5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		899E1A0C23CF7EDF00CB35B5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +35,7 @@
 		899E1A1323CF7EE400CB35B5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		899E1A1623CF7EE400CB35B5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		899E1A1823CF7EE400CB35B5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		89EABE0123D8BABC00AA8A5D /* DashboardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashboardViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +72,12 @@
 				899E1A0C23CF7EDF00CB35B5 /* SceneDelegate.swift */,
 				899E1A0E23CF7EDF00CB35B5 /* ViewController.swift */,
 				899E1A1023CF7EE000CB35B5 /* Main.storyboard */,
+				89EABE0123D8BABC00AA8A5D /* DashboardViewController.swift */,
+				8934D31123D699D40027825D /* DetailViewController.swift */,
+				8940F4D523D62273006F201C /* NewItemViewController.swift */,
+				8905FF0A23D23EF100843CDA /* ToDoListTableViewController.swift */,
+				8940F4D723D62BDE006F201C /* InitialTableViewCell.swift */,
+				8905FF0C23D23FF300843CDA /* ToDo.swift */,
 				899E1A1323CF7EE400CB35B5 /* Assets.xcassets */,
 				899E1A1523CF7EE400CB35B5 /* LaunchScreen.storyboard */,
 				899E1A1823CF7EE400CB35B5 /* Info.plist */,
@@ -138,9 +156,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8905FF0D23D23FF300843CDA /* ToDo.swift in Sources */,
+				89EABE0223D8BABC00AA8A5D /* DashboardViewController.swift in Sources */,
 				899E1A0F23CF7EDF00CB35B5 /* ViewController.swift in Sources */,
+				8940F4D623D62273006F201C /* NewItemViewController.swift in Sources */,
 				899E1A0B23CF7EDF00CB35B5 /* AppDelegate.swift in Sources */,
 				899E1A0D23CF7EDF00CB35B5 /* SceneDelegate.swift in Sources */,
+				8940F4D823D62BDE006F201C /* InitialTableViewCell.swift in Sources */,
+				8905FF0B23D23EF100843CDA /* ToDoListTableViewController.swift in Sources */,
+				8934D31223D699D40027825D /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -285,6 +309,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = HPYASBF6D2;
 				INFOPLIST_FILE = Remembrall/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -302,6 +327,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = HPYASBF6D2;
 				INFOPLIST_FILE = Remembrall/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",

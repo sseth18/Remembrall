@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4F7EC471-C460-46D2-8F84-8DDE47405303"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AB0FD5B4-0074-459A-876D-E776517C274A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Remembrall/NewItemViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "keyboardWillBeHidden(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9F645766-60AC-4AEE-81A6-3E940634FAD3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Remembrall/DashboardViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "DashboardViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "9F645766-60AC-4AEE-81A6-3E940634FAD3 - 43e20be9f62cd0f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Remembrall.DashboardViewController.remembrallTrophy.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Remembrall"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samarseth/Documents/CSC509/Winter%20Term/Remembrall/Remembrall/DashboardViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "9F645766-60AC-4AEE-81A6-3E940634FAD3 - a22b45ecafea3ce6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Remembrall.DashboardViewController.remembrallTrophy.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Remembrall"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samarseth/Documents/CSC509/Winter%20Term/Remembrall/Remembrall/DashboardViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "9F645766-60AC-4AEE-81A6-3E940634FAD3 - faf17565a11877f7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Remembrall.DashboardViewController.remembrallTrophy.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Remembrall"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samarseth/Documents/CSC509/Winter%20Term/Remembrall/Remembrall/DashboardViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "9F645766-60AC-4AEE-81A6-3E940634FAD3 - 2b745fec63a90af5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Remembrall.DashboardViewController.remembrallTrophy.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Remembrall"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samarseth/Documents/CSC509/Winter%20Term/Remembrall/Remembrall/DashboardViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "9F645766-60AC-4AEE-81A6-3E940634FAD3 - a426310f1adf7686"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Remembrall.DashboardViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Remembrall.DashboardViewController"
+                  moduleName = "Remembrall"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samarseth/Documents/CSC509/Winter%20Term/Remembrall/Remembrall/DashboardViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "436">
+               </Location>
+               <Location
+                  uuid = "9F645766-60AC-4AEE-81A6-3E940634FAD3 - 3033b3adb5ef60dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Remembrall.DashboardViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Remembrall.DashboardViewController&gt;"
+                  moduleName = "Remembrall"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samarseth/Documents/CSC509/Winter%20Term/Remembrall/Remembrall/DashboardViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "380">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
